@@ -1,4 +1,4 @@
-
+import MetaTrader5 as mt5
 # MT5 Connection Settings
 # IF you need specific login details, add them here. 
 # Otherwise, MT5 will try to connect to the currently open terminal.
