@@ -93,7 +93,7 @@ def dashboard():
     refresh_btn = col2.button("Refresh Now")
 
     if auto_refresh:
-        time.sleep(5)
+        time.sleep(120)
         st.rerun()
 
     if refresh_btn:
