@@ -6,7 +6,7 @@ import time
 # ============================================
 # CONFIG
 # ============================================
-API_URL = "http://45.61.60.110:8001/signals"
+API_URL = "http://74.208.190.247:8003/signals"
 
 USERNAME = "OrivisAlpha"
 PASSWORD = "Orivis"
